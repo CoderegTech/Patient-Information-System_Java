@@ -1,0 +1,3 @@
+a01|john reygun|rey|rey25|admin|active|Thu, 07 Oct 2021 11:29:29 AM
+b02|Daniel flores|jdoe|Jdoe|user|inactive|Sun, 08 Mar 2020 11:15:16 PM
+c03|Jason Doe|JaSoN|jason123|user|inactive|Thu, 20 Feb 2020 10:30:31 AM
